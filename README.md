@@ -61,8 +61,8 @@ This bot and its functionality does not work with the latest AOI.Js version. Onl
 
 ## 🤝 | Contributors
 
-<a href="https://github.com/Koriumm/FqcxnBot/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Koriumm/FqcxnBot" />
+<a href="https://github.com/Kyvelu/FqcxnBot/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Kyvelu/FqcxnBot" />
 </a>
 
 ## License and Copyright
